@@ -7,7 +7,7 @@
 ---
 
 ## 🔖&nbsp; Sobre
-O projeto é uma API desenvolvida dentro do curso **Bootcamp GoStack** da [@Rocketseat](https://github.com/Rocketseat), referente ao **Desafio 05: Fundamentos Node.js*.
+O projeto é uma API desenvolvida dentro do curso **Bootcamp GoStack** da [@Rocketseat](https://github.com/Rocketseat), referente ao **Desafio 05: Fundamentos Node.js**.
 
 ## 🚀 Tecnologias utilizadas
 
