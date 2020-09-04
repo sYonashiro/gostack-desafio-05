@@ -12,6 +12,8 @@ O projeto é uma API desenvolvida dentro do curso **Bootcamp GoStack** da [@Rock
 ## 🚀 Tecnologias utilizadas
 
 - [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ---
 
@@ -29,7 +31,7 @@ O projeto é uma API desenvolvida dentro do curso **Bootcamp GoStack** da [@Rock
     $ yarn install
     
     # Iniciar o projeto
-    $ yarn start
+    $ yarn dev:server
 ```
 
 ---
